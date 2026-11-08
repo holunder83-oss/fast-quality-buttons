@@ -1,0 +1,9 @@
+{
+  "name": "fast-quality-buttons",
+  "version": "1.2.0",
+  "title": "Fast Quality Buttons",
+  "author": "holunder",
+  "factorio_version": "2.1",
+  "description": "Adds 5 quality shortcut buttons (normal to legendary). The selected quality is applied to assembling machine recipes and optionally to building, the pipette and ghosts. Click the active button again to turn it off.",
+  "dependencies": ["base >= 2.1", "quality"]
+}

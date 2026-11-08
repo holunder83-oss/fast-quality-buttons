@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2026-11-04
+  Features:
+    - The selected quality can now also apply to building from inventory, the pipette and ghosts.
+    - New per-player mod settings to turn each part (recipes, building, pipette, ghosts) on or off.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2026-11-04
+  Bugfixes:
+    - Recipes with fixed ingredient quality (e.g. from the Quality Compressor mod) are no longer changed.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2026-11-04
+  Changes:
+    - Buttons now live in the vanilla shortcut bar and can be shown/hidden via its "..." menu.
+    - Removed the separate button bar and its settings.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-11-04
+  Info:
+    - Initial release.
